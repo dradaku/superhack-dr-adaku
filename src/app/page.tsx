@@ -41,7 +41,7 @@ export default function Home() {
   return (
     <div>
       <div className="flex flex-col items-center justify-center align-middle h-screen">
-        <p className="text-2xl mb-5">World ID Cloud Template</p>
+        <p className="text-2xl mb-5">orbvibe</p>
         <IDKitWidget
           action={action}
           app_id={app_id}
